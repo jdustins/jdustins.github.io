@@ -4,4 +4,6 @@ body{
 .navbar-toggler {
   font-size: 3.5em;
 }
-
+.container {
+	max-width: 90%;
+}
