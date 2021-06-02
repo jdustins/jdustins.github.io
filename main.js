@@ -88,7 +88,7 @@ async function drawChart(apiObject) {
           display: true,
           text: `Top 25 mint numbers left in the ${apiObject.chartName} premint pool`,
           font: {
-            size: 20
+            size: 30
           },
           padding: {
             top: 50,
