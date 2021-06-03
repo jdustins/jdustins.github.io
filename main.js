@@ -111,3 +111,4 @@ document.querySelector(".navbar-nav").addEventListener('click', e => {
 
 
 drawChart(apiCalls.mlb);
+
