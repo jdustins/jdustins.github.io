@@ -1,6 +1,7 @@
 body{
   background-color: #212529;
 }
+<<<<<<< HEAD
 
 .navbar-toggler {
 	font-size: 2.5rem;
@@ -8,3 +9,11 @@ body{
 .container {
 	max-width: 90%;
 }
+=======
+.navbar-toggler {
+  font-size: 3.5em;
+}
+.container {
+	max-width: 95%;
+}
+>>>>>>> a5a7f6c71ff8846775fc59d925cc532e4a330ae8
