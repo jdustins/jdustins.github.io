@@ -4,7 +4,7 @@ Bar chart to see the disbursement of the NFT's left in the premint pool waiting 
 
 ## Description
 
-I wanted a graphical way to see the disbursement of mint numbers in the premint pool so I built this simple chart. 
+I wanted a graphical way to see the disbursement of mint numbers in the premint pool so I built this simple chart. It uses [Chart.js](https://www.chartjs.org/) and [Bootstrap](https://getbootstrap.com/)  
 
 ## Future Advancements
 
